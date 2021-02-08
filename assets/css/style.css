@@ -16,6 +16,10 @@ div {
 #form {
   padding: 15px 0;
 }
+h3 {
+  text-align: center;
+}
+
 
 #button {
   background-color: green;
