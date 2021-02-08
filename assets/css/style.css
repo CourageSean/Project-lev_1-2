@@ -26,3 +26,8 @@ div {
   background-color: lightgreen;
   outline: 2px solid rgb(51, 115, 158);
 }
+
+#result:focus {
+  background-color: lightgreen;
+  outline: 2px solid rgb(51, 115, 158);
+}
