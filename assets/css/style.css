@@ -24,4 +24,5 @@ div {
 
 #button:focus {
   background-color: lightgreen;
+  outline: 2px solid rgb(51, 115, 158);
 }
